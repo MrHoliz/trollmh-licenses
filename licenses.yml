@@ -1,5 +1,5 @@
 global:
-  enabled: false
+  enabled: true
 
 licenses:
   TROLLMH-CLIENTE-001:
