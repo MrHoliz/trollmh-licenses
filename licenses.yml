@@ -5,3 +5,6 @@ licenses:
   TROLLMH-CLIENTE-001:
     owner: "MrHoliz"
     enabled: true
+  TROLLMH-CLIENTE-002:
+    owner: "MrHoliz2"
+    enabled: true
