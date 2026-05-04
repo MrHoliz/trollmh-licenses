@@ -1,0 +1,7 @@
+global:
+  enabled: true
+
+licenses:
+  TROLLMH-CLIENTE-001:
+    owner: "Brian"
+    enabled: true
